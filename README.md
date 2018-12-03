@@ -1,0 +1,2 @@
+# Skrypty
+magazyn skryptow
